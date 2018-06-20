@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+C:\Users\lookr\Desktop\test\ログイン認証\ログイン認証\.metadata\.plugins\org.eclipse.jdt.core
+826811105.index
+336005817.index
+1480260107.index
+3725584097.index
+140033253.index
+2336599838.index
+490717131.index
+75339072.index
+2795787554.index
+2045271891.index
+988925305.index
